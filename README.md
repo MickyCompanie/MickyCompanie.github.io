@@ -8,7 +8,7 @@ I'm pretty new to code and github things, so this page is just a beggining, as i
 
 ## Author
 
-* **Micky Companie** - [mickycompanie](https://mickycompanie.github.io./)
+* **Micky Companie** - [my page](https://mickycompanie.github.io./)
 
 ## License
 
